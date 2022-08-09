@@ -4,7 +4,7 @@
   "description": "![Design preview for the Fylo data storage component coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss -i ./src/styles.css -o ./public/output.css -w"
+    "dev": "tailwindcss -i ./src/styles.css -o ./public/output.css -w"
   },
   "keywords": [],
   "author": "",
